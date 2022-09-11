@@ -1,4 +1,4 @@
-git # Developed By:
+# Developed By:
 
 KANISHK SHARMA
 
